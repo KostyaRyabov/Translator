@@ -1,0 +1,14 @@
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\bin\Debug\TAFI_DZ1v3.exe.config
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\bin\Debug\TAFI_DZ1v3.exe
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\bin\Debug\TAFI_DZ1v3.pdb
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3.csprojAssemblyReference.cache
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\MainWindow.g.cs
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\App.g.cs
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3_MarkupCompile.cache
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3_MarkupCompile.lref
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\MainWindow.baml
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3.g.resources
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3.Properties.Resources.resources
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3.csproj.GenerateResource.cache
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3.exe
+C:\Users\KoRy3\source\repos\TAFI_DZ1v3\obj\Debug\TAFI_DZ1v3.pdb
